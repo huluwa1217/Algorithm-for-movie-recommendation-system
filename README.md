@@ -1,0 +1,2 @@
+# Algorithm-for-movie-recommendation-system
+本工程以上课所学知识为基础，以电影推荐算法为核心，在MovieLens 100K Dataset数据集上，将课内所学的基础的推荐算法与课外的深度学习相关的流行算法相结合，共采用10种算法进行电影推荐算法的实现
